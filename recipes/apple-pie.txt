@@ -3,3 +3,4 @@ pastry
 butter
 flour
 sugar
+salt
