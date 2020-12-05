@@ -3,4 +3,3 @@ pastry
 butter
 flour
 sugar
-1 tbl spn cinnamon
